@@ -1,0 +1,57 @@
+// Font --- Shrikhand Regular //
+$name-restaurant-font: 'shrikhandregular';
+$name-restaurant-src: url('../../font/Shrikhand-Regular.ttf') format('truetype');
+$name-restaurant-weight: normal;
+$name-restaurant-style: normal;
+
+// Font --- Roboto Regular //
+$menu-first-title-font: 'robotoregular';
+$menu-first-title-src: url('../../font/Roboto-Regular.ttf') format('truetype');
+$menu-first-title-weight: normal;
+$menu-first-title-style: normal;
+
+// Font --- Roboto Thin //
+$menu-second-title-font: 'robotothin';
+$menu-second-title-src: url('../../font/Roboto-Thin.ttf') format('truetype');
+$menu-second-title-weight: normal;
+$menu-second-title-style: normal;
+
+// Responsive //
+$breakpoints: (
+	"tablet": 768px,
+	"desktop": 1200px,
+);
+
+$page-max-width: 1400px;
+
+// Colors //
+$color-primary: #9356dc;
+$color-secondary: #FF79DA;
+$color-tertiary: #99E2D0;
+$color-text-btn: white;
+$color-text-new: #297965;
+$color-icons: grey;
+$color-gradient-btn: linear-gradient(180deg, rgb(147, 86, 220, 0), rgb(147, 86, 220, 1));
+$color-heart-hover: linear-gradient(180deg, rgba(141, 71, 226, 0.726), rgb(199, 61, 218));
+
+// Color Backgrounds //
+$background-search-box: rgb(235, 235, 235);
+$background-top-title: rgb(248, 248, 248);
+$background-card-topnav: rgb(248, 248, 248);
+$background-section-restaurant: rgb(245, 245, 245);
+$background-footer: rgb(61, 61, 61);
+$background-menu-container: rgb(250, 250, 250);
+
+// Shadows Main //
+$shadow-search-box: inset rgba(100, 100, 111, 0.2) 0px 8px 4px -5px;
+$shadow-btn-top-main: rgba(100, 100, 111, 0.726) 0px 10px 30px -8px;
+$shadow-btn-top-main-hover: rgba(100, 100, 111, 0.726) 0px 10px 30px 3px;
+$shadow-cards-topnav: rgba(100, 100, 111, 0.2) 0px 10px 15px -3px;
+$shadow-restaurant-cards: rgba(100, 100, 111, 0.726) 0px 0px 20px -8px;
+$shadow-menu-article-item: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+
+// Radius //
+$container-radius: 40px;
+$restaurant-card-img-radius: 15px;
+
+$valid-transition-time: 0.4s;

@@ -1,0 +1,22 @@
+@import "../base/variables";
+
+@font-face {
+    font-family: $name-restaurant-font;
+    src: $name-restaurant-src;
+    font-weight: $name-restaurant-weight;
+    font-style: $name-restaurant-style;
+}
+
+@font-face {
+    font-family: $menu-first-title-font;
+    src: $menu-first-title-src;
+    font-weight: $menu-first-title-weight;
+    font-style: $menu-first-title-style;
+}
+
+@font-face {
+    font-family: $menu-second-title-font;
+    src: $menu-second-title-src;
+    font-weight: $menu-second-title-weight;
+    font-style: $menu-second-title-style;
+}
