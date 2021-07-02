@@ -1,0 +1,22 @@
+{
+  "name": "maximecat_3_23042021",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "npx sass --watch sass:public/css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maximecat/Maximecat_3_23042021.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Maximecat/Maximecat_3_23042021/issues"
+  },
+  "homepage": "https://github.com/Maximecat/Maximecat_3_23042021#readme",
+  "dependencies": {
+    "sass": "^1.34.0"
+  }
+}
