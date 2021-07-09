@@ -520,6 +520,7 @@ header .header_logo img {
 }
 .article-item .texts-card .text-secondary-card {
   width: auto;
+  font-size: 15px;
 }
 .article-item .right-part-card {
   display: flex;
