@@ -364,7 +364,7 @@ header .header_logo img {
   width: auto;
   height: 30px;
   margin: auto;
-  margin-top: 0px;
+  margin-top: -30px;
 }
 
 .top-background-menu {
