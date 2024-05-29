@@ -351,7 +351,7 @@ header i {
   display: flex;
   margin: auto;
   margin-left: 20px;
-  margin-top: 25px;
+  margin-top: 20px;
 }
 
 header .header_logo {
@@ -364,7 +364,7 @@ header .header_logo img {
   width: auto;
   height: 30px;
   margin: auto;
-  margin-top: -30px;
+  margin-top: -25px;
 }
 
 .top-background-menu {
