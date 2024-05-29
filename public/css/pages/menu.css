@@ -323,8 +323,7 @@ body {
 .option-footer h3 a:hover {
   position: relative;
   border-bottom: 1px solid #99E2D0;
-  padding-bottom: 3px;
-  border-radius: 4px;
+  padding-bottom: 2px;
   animation: line-footer 0.2s;
 }
 
