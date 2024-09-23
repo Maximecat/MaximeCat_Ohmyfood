@@ -1,5 +1,4 @@
 # ![Logo Ohmyfood](public/img/logo/ohmyfood.png)
-Troisième projet du parcours "Développeur Front-End" chez OpenClassroom.
 
 ## Objectif(s)
 Dynamisez une page web avec des animations CSS en utilisant SASS, pour un site de restauration nommé "Ohmyfood" et versionnerez votre projet avec Git et GitHub.
