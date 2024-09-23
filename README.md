@@ -1,4 +1,4 @@
-# Ohmyfood!
+# ![Logo Ohmfood](public/img/logo/ohmyfood.png)
 Troisième projet du parcours "Développeur Front-End" chez OpenClassroom.
 
 L'objectif : Dynamisez une page web avec des animations CSS - 
