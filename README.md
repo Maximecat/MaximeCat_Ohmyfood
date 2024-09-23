@@ -6,7 +6,7 @@ Dynamisez une page web avec des animations CSS en utilisant SASS, pour un site d
 ## Résumé de la mission
 La mission principale sera d'intégrer une maquette en mobile-first.
 Avec à disposition : 
-- Les maquettes Figma pour mobile, tablette et desktop 
+- Les maquettes Figma pour mobile
 - Les images 
 - Les textes nécessaires
 - Le brief créatif rassemblant et détaillant :
