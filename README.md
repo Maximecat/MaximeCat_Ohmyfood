@@ -30,12 +30,12 @@ Avec à disposition :
 
 ## Informations supplémentaires
 
-### Éléments fournis par l'entreprise.
+### Éléments fournis par l'entreprise
 - La maquette pour la résolution mobile nous est donné uniquement (Acceuil/Menus).
 - Toutes les images présentes sur le site sont aussi livrés.
 - Les icones proviennent de [Font Awesome](https://fontawesome.com/)
 
-### Identité graphique.
+### Identité graphique
 - Les couleurs sont : violet #9356dc - rose #FF79DA - vert pâle #99E2D0
 - Les police sont --> 
    * Texte:  ["Roboto-Regular"](https://fonts.google.com/specimen/Roboto) / ["Roboto-Thin"](https://fonts.google.com/specimen/Roboto)
